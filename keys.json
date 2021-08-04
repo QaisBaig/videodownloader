@@ -1,13 +1,10 @@
-{
-"AppID": "ca-app-pub-9522824014864088~3426137679",
-	"AppOpen": "ca-app-pub-9522824014864088/3042994299",
-	"Interstitial": "ca-app-pub-9522824014864088/5860729325",
-	"Rewarded": "3655363",
-	"RewardedInterstitial": "35632565",
-	"BannerMain": "ca-app-pub-9522824014864088/7173810990",
-	"BannerSecondary": "56325",
-	"Native": "ca-app-pub-9522824014864088/6271792869"
 
-
-
+{"AppID": "ca-app-pub-3940256099942544~3347511713",
+	"AppOpen": "ca-app-pub-3940256099942544/3419835294",
+	"Interstitial": "ca-app-pub-3940256099942544/1033173712",
+	"Rewarded": "",
+	"RewardedInterstitial": "",
+	"BannerMain": "ca-app-pub-3940256099942544/6300978111",
+	"BannerSecondary": "",
+	"Native": "ca-app-pub-3940256099942544/2247696110"
 }
