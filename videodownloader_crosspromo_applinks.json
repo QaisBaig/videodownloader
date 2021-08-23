@@ -8,14 +8,7 @@
 			"appCoverImage": "https://www.dropbox.com/s/bw3ky1okpxprtpc/vpn_feature.jpg?raw=1"
 		
 		},
-		{
-			"appIconStr": "https://www.dropbox.com/s/o0oci4zi59r84q3/dark_icon.jpg?raw=1",
-			"appTitle": "Dark Wallpapers",
-			"appDescription": "Best Dark Wallpapers For Android Phones",
-			"url": "https://play.google.com/store/apps/details?id=app.darkwallpaper.blackwallpaper.thebestapp",
-			"appCoverImage": "https://www.dropbox.com/s/p8pmfy7uz6mtlkg/dark_feature-img.jpg?raw=1"
 
-		},
 		{
 			"appIconStr": "https://www.dropbox.com/s/66nu2scaa5p90po/collage_icon.jpg?raw=1",
 			"appTitle": "Photo Collage Maker App",
@@ -40,13 +33,7 @@
 		"slideImage":"https://www.dropbox.com/s/bw3ky1okpxprtpc/vpn_feature.jpg?raw=1",
 		"appUrl": "https://play.google.com/store/apps/details?id=eclat.app.free.vpn"
 		},
-		
-		{
-		"slideImage":"https://www.dropbox.com/s/p8pmfy7uz6mtlkg/dark_feature-img.jpg?raw=1",
-		"appUrl": "https://play.google.com/store/apps/details?id=app.darkwallpaper.blackwallpaper.thebestapp"
-		},
-		
-		{
+                {
 		"slideImage":"https://www.dropbox.com/s/vcwps7717f2hg5a/collage_feature-img%20.jpg?raw=1",
 		"appUrl": "https://play.google.com/store/apps/details?id=collagestudio.photocollage.collagemaker"
 		},
